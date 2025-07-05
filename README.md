@@ -1,4 +1,4 @@
-# SOC
+# Azure SOC
 
 - Creating an Azure subscription and setting up a VM
 - Configuring Log Analytics Workspace
